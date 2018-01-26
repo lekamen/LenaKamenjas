@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kolokvij2</string>
+    <string name="unesite_neko_slovo">input</string>
+    <string name="input">Unesite jedno slovo za ispis kontakata</string>
+    <string name="startsWith">ispis svih koji počinju na to slovo</string>
+    <string name="doesntStartWith">ispis svih koji ne počinju na to slovo</string>
+    <string name="base">rad s bazom</string>
+    <string name="pokazi_cijelu_bazu">getAll</string>
+    <string name="delete_cake">Izbriši kolač i sastojak</string>
+    <string name="allWithIngredient">Ispiši sve s navedenim sastojkom</string>
+</resources>
